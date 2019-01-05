@@ -49,6 +49,5 @@ int main()
 		}
 	}
 	fout << start;
-	int x = 0;
 	return 0;
 }
