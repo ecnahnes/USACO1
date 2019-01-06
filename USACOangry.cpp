@@ -48,6 +48,7 @@ int main()
 			start = mid + 1;
 		}
 	}
+	int y = 1;
 	fout << start;
 	int x = 0;
 	return 0;
